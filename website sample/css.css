@@ -1,0 +1,9 @@
+body {background-color: rgb(212, 255, 255);}
+h1 {text-align: center;}
+footer { background-color: rgb(0, 0, 0);
+    color: white; text-align: center;}
+.dropt{cursor: pointer;}
+.dropl{display:none ;
+    list-style-type:none;}
+.dropl li{cursor: pointer;}
+.show{display: block;}
